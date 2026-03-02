@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Task Switching",
+  "Type": "App",
+  "Id": "0NdlH4TJbkiq6FYFaXSIwg",
+  "Reference": "4q_4MDg5iESIV_38aMBJJA/0NdlH4TJbkiq6FYFaXSIwg",
+  "Created": "2025-10-09T18:31:44.765351Z",
+  "Updated": "2025-10-09T18:31:44.765351Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

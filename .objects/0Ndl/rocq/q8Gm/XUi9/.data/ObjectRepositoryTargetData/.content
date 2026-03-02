@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="n5Cs1Vwg3kaHjcCbW8m7Dw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="dd5db3c5-c4a8-49f3-8ce0-cedb3d02c8d7" CvElementArea="434, 10, 333, 51" CvType="InputBox" DesignTimeRectangle="435, 12, 330, 48" ElementType="Button" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;uia automationid='SearchButton' cls='ToggleButton' name='Search' role='button' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' matching:name='fuzzy' fuzzylevel:name='0.0' check:fulltext='Search' /&gt;" Guid="641108a5-3f8c-4358-9fb6-7d9ff9692eda" ScopeSelectorArgument="&lt;wnd app='explorer.exe' cls='Shell_TrayWnd' idx='*' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dd5db3c5-c4a8-49f3-8ce0-cedb3d02c8d7" CvElementArea="434, 10, 333, 51" CvType="InputBox" DesignTimeRectangle="491, 21, 62, 27" ElementType="Text" FuzzySelectorArgument="&lt;uia automationid='SearchBoxTextBlock' cls='TextBlock' name='Search' role='text' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' matching:name='fuzzy' fuzzylevel:name='0.0' check:fulltext='Search' /&gt;" Guid="d7599f00-662f-4365-ab52-ffb1f7128840" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="2db0bdea3c1438c6330a51335393b50f.png" xmlns="">0cRuyDRPe5Uae36w8ZbavlQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

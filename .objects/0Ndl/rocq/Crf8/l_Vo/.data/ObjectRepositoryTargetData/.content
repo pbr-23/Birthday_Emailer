@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cP1i7DTXfUK1dwnWwtg77g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sidekick.deloitte.com/conversation/f4c30ea6-405e-478c-b1bf-d88b7537aff8" CVScreenId="d670575d-b85a-4e8a-b272-d5c5c29ca3e1" CvTextArea="134, 852, 238, 24" CvTextArgument="Upload from this device" CvType="Text" DesignTimeRectangle="135, 844, 237, 36" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl class='dark:text-dark-light' parentid='mat-menu-panel-18' tag='SPAN' type='' aaname=' Upload from this device ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Upload from this device' /&gt;" Guid="e0a366ea-37a6-452f-9f15-0f2431e4d03e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sidekick' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8e5a2550ca94cebac66eea2c190b84bb.png" xmlns="">0WktjS0Z3006RdlpcHfUxkA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

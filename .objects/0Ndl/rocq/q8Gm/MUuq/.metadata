@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Extract Calendar Slots …",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "MUuqIKaPHkCpZdJpgQ3eXg",
+  "Reference": "4q_4MDg5iESIV_38aMBJJA/MUuqIKaPHkCpZdJpgQ3eXg",
+  "ParentRef": "4q_4MDg5iESIV_38aMBJJA/q8GmdHEjf06X5nYLyZFg3w",
+  "Created": "2025-10-09T19:25:40.2568296Z",
+  "Updated": "2025-10-09T19:25:40.2568296Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.16.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

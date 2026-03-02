@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="U0ppdTiH2km5RwHFXLU-LA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sidekick.deloitte.com/conversation/f4c30ea6-405e-478c-b1bf-d88b7537aff8" CVScreenId="083b8994-29a0-4712-b2f2-137611c0e571" CvTextArea="660, 863, 180, 27" CvTextArgument="Ask me anything..." CvType="Text" DesignTimeRectangle="663, 856, 988, 36" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;gen-app&amp;gt;gen-root&amp;gt;div&amp;gt;div&amp;gt;main&amp;gt;gen-conversation&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;gen-chat-text-area&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' isleaf='1' tabindex='0' tag='DIV' /&gt;" Guid="114c7db5-d1b2-4c37-a047-3c0aea8c3785" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Sidekick' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="3a3d8f46cf587da5d5ded733c79a9bf8.png" xmlns="">0wB4dBeJhYUamxcU2u0aIdg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

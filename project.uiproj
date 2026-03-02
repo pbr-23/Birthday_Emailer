@@ -1,0 +1,6 @@
+{
+  "Name": "BirthdayMailer-Copy",
+  "ProjectType": "Process",
+  "Description": "Automate sending birthday emails",
+  "MainFile": "Main.xaml"
+}
