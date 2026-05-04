@@ -152,7 +152,7 @@
       <AssemblyReference>System.Runtime.Numerics</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="956.6666666666666,3928" sap2010:WorkflowViewState.IdRef="Sequence_8">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="920.6666666666666,3928" sap2010:WorkflowViewState.IdRef="Sequence_8">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="vDtBirthdays" />
       <Variable x:TypeArguments="x:String" Name="ImgData" />
